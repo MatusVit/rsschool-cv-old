@@ -15,4 +15,21 @@ I like everything new and interesting. This is the main reason why I want to wor
 - UX/UI: Figma, Photoshop, Axure RP
 - Video: shooting, Adobe Premiere, Davinci Resolve
 
-## 
+## Code examples
+```
+(function() {
+  'use strict';
+
+  setTimeout(function() {
+    document.querySelector('.greating_picture').classList.add('m--show');
+  }, 1000);
+})();
+```
+## Experience
+Freelance: development website on WordPress, MODX, Opencart. Create landing pages using Bootstrap
+
+## Education
+The Academy of Public Administration under the aegis of the President of the Republic of Belarus, Economics and Industrial Enterprise Management, 1996
+
+## English
+A2 (Elementary English)
