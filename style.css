@@ -14,13 +14,10 @@ h2 {
     margin-top: 4rem;
 }
 
-
-
 .wrapper {
     width: 1024px;
     margin: 0 auto;
-    padding: 16px;
-    /* background: rgb(206, 206, 206); */
+    padding: 16px;   
 }
 
 li {
@@ -30,7 +27,6 @@ li {
 .contact li {
     line-height: 1.8;
 }
-
 
 .section-cart {
     padding-top: 10vh;
@@ -71,4 +67,3 @@ pre {
     border-radius: 16px;
     background: rgba(0, 0, 0, 0.05)
 }
-
